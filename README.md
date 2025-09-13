@@ -23,29 +23,37 @@ Admin juga memiliki dashboard untuk mengelola produk, kategori, dan transaksi.
 - Jelajahi produk & detail produk  
 - Keranjang belanja  
 - Checkout & pembayaran  
-- Riwayat pesanan  
+- Riwayat pesanan
+- Rating produk
 
 ### 🛒 Admin
-- Login dashboard admin  
+- Login dashboard admin
+- Manajemen profil admin
 - CRUD Produk (Tambah/Edit/Hapus)  
 - CRUD Kategori & Promo  
-- Manajemen user  
-- Monitoring pesanan & transaksi  
+- Manajemen status pesanan user 
+- Monitoring pesanan & transaksi
+- Notifikasi pesanan user
 
 ---
 
-## 🛠️ Tech Stack
-- **Backend**: Laravel 10 (PHP, MVC)  
-- **Frontend**: Blade + Tailwind CSS  
-- **Database**: MySQL  
-- **Tools**:  
+## 🛠️ Alat
   - Figma (UI/UX Design)  
   - GitHub (Version Control)  
   - XAMPP (PHP & MySQL)  
-  - Draw.io / Creately (Diagram)  
-  - Google Docs (Dokumentasi)  
+  - Draw.io (Diagram)  
+  - Google Docs (Dokumentasi)
 
 ---
+
+## 👨‍💻 Tim Developer – Kelompok 6
+
+   - Yeni  Safitri - Project Manager & System Analyst
+   - Ambar Larasati - System Analyst
+   - Bela Claudia – Designer UI/UX
+   - Dimas Ahmad Ghifari- System Analyst
+   - Satya Banyu Biru - Tester
+   - Sofie Aisha Zahra – Fullstack dev & Designer UI/UX
 
 ## ⚡ Instalasi
 
